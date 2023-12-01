@@ -1,2 +1,1 @@
-# sockets-aws
-practica con aws
+# socketsaws
